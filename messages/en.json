@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "siteName": "Alumni Connect",
+    "title": "Alumni Connect — turn shared history into shared opportunities",
+    "description": "A professional network for alumni: find mentors, advice, jobs and partners by school, expertise, company and location."
+  },
+  "nav": {
+    "brand": "Alumni Connect", "directory": "Directory", "connections": "Connections", "invite": "Invite",
+    "verify": "Get verified", "verifyPending": "Verification pending", "editProfile": "My profile",
+    "admin": "Admin", "login": "Log in", "logout": "Log out",
+    "footer": "Alumni Connect · Turning shared history into shared opportunities"
+  },
+  "common": {
+    "prev": "Previous", "next": "Next", "pageOf": "Page {page} of {pages}",
+    "noResults": "No alumni found. Try removing a filter.",
+    "resultCount": "{count, plural, one {# alumnus} other {# alumni}}",
+    "notFoundTitle": "Page not found", "notFoundText": "We could not find what you were looking for.",
+    "backToDirectory": "Back to the directory"
+  },
+  "kinds": {
+    "school": "School", "faculty": "Faculty", "company": "Company", "job": "Job title",
+    "expertise": "Expertise", "help": "Can help with", "location": "Location"
+  },
+  "studyStatus": {
+    "planning": "Planning to study abroad", "studying": "Studying", "graduated": "Graduated",
+    "working_abroad": "Working abroad", "returned": "Returned to Vietnam"
+  },
+  "home": {
+    "heroTitle": "Your past connections can build your future.",
+    "heroText": "Find alumni by school, expertise, company or city. Ask for advice, find a mentor, share opportunities.",
+    "join": "Join the network", "browse": "Browse alumni",
+    "memberCount": "{count, plural, one {# verified alumnus} other {# verified alumni}} so far",
+    "profileTitle": "Build your profile", "profileText": "Share who you are, what you know and how you can help.",
+    "discoverTitle": "Discover people", "discoverText": "Every school, company, skill and city is a link to everyone who shares it.",
+    "connectTitle": "Connect for real", "connectText": "Verified alumni can unlock contacts and send connect requests.",
+    "popular_expertise": "Popular expertise", "popular_help": "Ways alumni can help", "popular_school": "Schools",
+    "latest": "New alumni", "seeAll": "See all"
+  },
+  "directory": {
+    "title": "Alumni directory",
+    "description": "Browse alumni by school, faculty, company, job title, expertise and location.",
+    "search": "Search", "searchHint": "Name, headline or bio", "searchBtn": "Search",
+    "filters": "Filters", "removeFilter": "Remove filter", "clear": "Clear all"
+  },
+  "tagPage": {
+    "directory": "Directory",
+    "title_school": "Alumni of {name}", "title_faculty": "Alumni of the {name} faculty",
+    "title_company": "Alumni at {name}", "title_job": "Alumni working as {name}",
+    "title_expertise": "Alumni with {name} expertise", "title_help": "Alumni who can help with {name}",
+    "title_location": "Alumni in {name}",
+    "lead": "Everyone in the network connected to “{name}”.",
+    "description": "{count, plural, one {# alumnus} other {# alumni}} linked to {name} ({kind}) on Alumni Connect.",
+    "refine": "Combine with other filters"
+  },
+  "login": {
+    "title": "Log in or sign up", "lead": "Enter your email and we will send you a one-time sign-in link. No password needed.",
+    "email": "Email", "submit": "Send sign-in link",
+    "sent": "Check your inbox. We sent you a sign-in link. Open it on this device.",
+    "error_email": "Please enter a valid email address.", "error_send": "We could not send the email. Please try again.",
+    "error_link": "That link is invalid or expired. Please request a new one.",
+    "note": "After signing in you can get verified to unlock contact details and connect requests."
+  },
+  "verify": {
+    "title": "Get verified",
+    "lead": "Tell us which school you attended. An administrator will review your claim. Verified members can see contact details and send connect requests.",
+    "school": "School", "schoolHint": "e.g. Hanoi University of Science and Technology", "gradYear": "Graduation year",
+    "evidence": "Proof (optional)", "evidenceHint": "A LinkedIn profile, student card photo link or any page that shows your link to the school.",
+    "note": "Note for the reviewer (optional)", "noteHint": "Anything that helps us verify you, e.g. class, supervisor, classmates.",
+    "submit": "Submit for review", "error": "Please enter your school and try again.",
+    "submitted": "Thanks! Your claim was submitted and is waiting for review.",
+    "pending": "Your verification is waiting for review.", "rejected": "We could not verify your last claim. You can submit it again with more details.",
+    "verifiedText": "You are verified.", "goDirectory": "Open the directory",
+    "invitePrompt": "Have an invite link from another alumnus? Open it to be verified instantly."
+  },
+  "profile": {
+    "verified": "Verified", "verifiedHint": "Membership checked by an administrator or invited by a verified member",
+    "about": "About", "career": "Career", "education": "Education", "expertise": "Expertise", "canHelp": "I can help with",
+    "at": "at", "current": "Current", "edit": "Edit profile",
+    "selfPending": "Your profile is waiting for verification. It becomes public after approval.",
+    "selfUnverified": "Your profile is not public yet. Get verified to appear in the directory.",
+    "verifyNow": "Get verified", "selfPrivate": "Your profile is hidden from search engines and the directory.",
+    "connectTitle": "Contact and connect", "loginToUnlock": "Log in as a verified alumnus to see contact details and send a connect request.",
+    "loginCta": "Log in", "verifyToUnlock": "Verify your alumni membership to unlock contact details and connect requests.",
+    "verifyPendingText": "Your verification is pending. Contact details unlock after approval.",
+    "c_email": "Email", "c_phone": "Phone",
+    "introMessage": "Introduce yourself", "introHint": "Why would you like to connect?", "sendRequest": "Send connect request",
+    "requestSent": "Connect request sent. You can message each other once it is accepted.",
+    "accept": "Accept", "decline": "Decline", "openChat": "Open messages", "declined": "This request was declined.",
+    "flashSent": "Connect request sent.", "flashLimit": "You have reached today's limit of connect requests.",
+    "flashExists": "You already have a connection or pending request with this person.", "flashError": "Something went wrong. Please try again.",
+    "flashReported": "Thank you. An administrator will review your report.",
+    "report": "Report this profile", "reportHint": "What is wrong with this profile?", "reportSend": "Send report"
+  },
+  "profileForm": {
+    "title": "My profile", "saved": "Profile saved.", "viewProfile": "View profile", "saving": "Saving…", "save": "Save profile",
+    "err_unauth": "Please log in again.", "err_nameRequired": "Full name is required.", "err_tooLong": "Some text is too long.", "err_generic": "Could not save. Please try again.",
+    "basics": "Basics", "fullName": "Full name", "headline": "Headline", "headlineHint": "e.g. Data scientist at Grab · mentor for study abroad students",
+    "location": "City", "locationHint": "e.g. Ho Chi Minh City", "country": "Country you live in", "studyStatus": "Study / work status",
+    "about": "About you", "bioVi": "Bio (Tiếng Việt)", "bioEn": "Bio (English)",
+    "bioHint": "Write one or both. Visitors see the bio in their language when available.",
+    "education": "Education", "school": "School / university", "schoolHint": "Type to search or add", "faculty": "Faculty / major",
+    "facultyHint": "e.g. Computer Science", "degree": "Degree", "gradYear": "Graduation year", "remove": "Remove", "addEducation": "Add education",
+    "career": "Career", "jobTitle": "Job title", "jobHint": "e.g. Product Manager", "company": "Company", "companyHint": "e.g. Google",
+    "currentRole": "I currently work here", "addPosition": "Add position",
+    "expertiseAndHelp": "Expertise and how you can help", "expertise": "Expertise", "expertiseHint": "Type a skill and press Enter",
+    "help": "I can help with", "helpHint": "e.g. Mentoring, Scholarships",
+    "contact": "Contact details", "contactHint": "Only verified alumni can see these. Leave blank what you do not want to share.",
+    "c_email": "Email", "c_phone": "Phone", "c_linkedin": "LinkedIn URL", "c_facebook": "Facebook URL", "c_zalo": "Zalo",
+    "publicProfile": "Show my profile publicly", "publicProfileHint": "Public profiles can be found on search engines. Contact details are never public.",
+    "avatar": "Profile photo", "upload": "Upload", "avatarOk": "Photo updated.", "avatarError": "Use a JPG, PNG or WebP image up to 2 MB."
+  },
+  "connections": {
+    "title": "Connections", "incoming": "Requests for you", "noneIncoming": "No pending requests.", "accept": "Accept", "decline": "Decline",
+    "chats": "Your connections", "noneChats": "No connections yet. Visit a profile and send a request.", "open": "Open messages",
+    "outgoing": "Sent requests", "waiting": "Waiting for reply", "sayHi": "Say hello 👋", "messageHint": "Write a message", "send": "Send"
+  },
+  "invite": {
+    "title": "Invite alumni", "lead": "Share an invite link. People who join through it are verified automatically.",
+    "needVerified": "Only verified members can create invite links.", "create": "Create invite link", "error": "Could not create a link. You may have too many active invites.",
+    "link": "Invite link", "uses": "Used {uses} of {max}", "expires": "expires {date}"
+  },
+  "join": {
+    "title": "You are invited", "lead": "A verified alumnus invited you to join Alumni Connect. Sign in to be verified automatically.",
+    "email": "Email", "submit": "Send sign-in link", "accept": "Accept invitation", "invalid": "This invitation is invalid, expired or fully used."
+  },
+  "admin": {
+    "title": "Administration", "pending": "Pending verifications", "nonePending": "Nothing to review.", "school": "School",
+    "evidence": "Proof", "approve": "Approve", "reject": "Reject", "reports": "Reports", "noReports": "No open reports.", "resolve": "Mark resolved",
+    "tags": "Tags", "tagSearch": "Search tags", "search": "Search", "rename": "Rename", "delete": "Delete",
+    "tagInUse": "That tag is still used in profiles and cannot be deleted."
+  }
+}

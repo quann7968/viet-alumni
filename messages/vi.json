@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "siteName": "Alumni Connect",
+    "title": "Alumni Connect — biến kỷ niệm chung thành cơ hội chung",
+    "description": "Mạng lưới chuyên nghiệp cho cựu sinh viên: tìm người cố vấn, lời khuyên, việc làm và đối tác theo trường, chuyên môn, công ty và nơi sống."
+  },
+  "nav": {
+    "brand": "Alumni Connect", "directory": "Danh bạ", "connections": "Kết nối", "invite": "Mời bạn",
+    "verify": "Xác minh", "verifyPending": "Đang chờ xác minh", "editProfile": "Hồ sơ của tôi",
+    "admin": "Quản trị", "login": "Đăng nhập", "logout": "Đăng xuất",
+    "footer": "Alumni Connect · Biến kỷ niệm chung thành cơ hội chung"
+  },
+  "common": {
+    "prev": "Trước", "next": "Sau", "pageOf": "Trang {page}/{pages}",
+    "noResults": "Không tìm thấy cựu sinh viên nào. Hãy thử bỏ bớt bộ lọc.",
+    "resultCount": "{count} cựu sinh viên",
+    "notFoundTitle": "Không tìm thấy trang", "notFoundText": "Chúng tôi không tìm thấy nội dung bạn cần.",
+    "backToDirectory": "Về danh bạ"
+  },
+  "kinds": {
+    "school": "Trường", "faculty": "Khoa", "company": "Công ty", "job": "Chức danh",
+    "expertise": "Chuyên môn", "help": "Có thể giúp", "location": "Nơi sống"
+  },
+  "studyStatus": {
+    "planning": "Đang chuẩn bị du học", "studying": "Đang du học", "graduated": "Đã tốt nghiệp",
+    "working_abroad": "Đang làm việc ở nước ngoài", "returned": "Đã về Việt Nam"
+  },
+  "home": {
+    "heroTitle": "Những mối quan hệ cũ có thể xây dựng tương lai của bạn.",
+    "heroText": "Tìm cựu sinh viên theo trường, chuyên môn, công ty hoặc thành phố. Xin lời khuyên, tìm người cố vấn, chia sẻ cơ hội.",
+    "join": "Tham gia mạng lưới", "browse": "Xem danh bạ",
+    "memberCount": "Đã có {count} cựu sinh viên được xác minh",
+    "profileTitle": "Tạo hồ sơ", "profileText": "Chia sẻ bạn là ai, bạn biết gì và bạn có thể giúp gì.",
+    "discoverTitle": "Khám phá mọi người", "discoverText": "Mỗi trường, công ty, kỹ năng và thành phố đều là một liên kết đến những người cùng chung điểm đó.",
+    "connectTitle": "Kết nối thật sự", "connectText": "Thành viên đã xác minh có thể xem liên hệ và gửi yêu cầu kết nối.",
+    "popular_expertise": "Chuyên môn phổ biến", "popular_help": "Những cách cựu sinh viên có thể giúp", "popular_school": "Các trường",
+    "latest": "Thành viên mới", "seeAll": "Xem tất cả"
+  },
+  "directory": {
+    "title": "Danh bạ cựu sinh viên",
+    "description": "Tìm cựu sinh viên theo trường, khoa, công ty, chức danh, chuyên môn và nơi sống.",
+    "search": "Tìm kiếm", "searchHint": "Tên, giới thiệu ngắn hoặc tiểu sử", "searchBtn": "Tìm",
+    "filters": "Bộ lọc", "removeFilter": "Bỏ bộ lọc", "clear": "Xóa tất cả"
+  },
+  "tagPage": {
+    "directory": "Danh bạ",
+    "title_school": "Cựu sinh viên {name}", "title_faculty": "Cựu sinh viên khoa {name}",
+    "title_company": "Cựu sinh viên tại {name}", "title_job": "Cựu sinh viên làm {name}",
+    "title_expertise": "Cựu sinh viên chuyên về {name}", "title_help": "Cựu sinh viên có thể giúp về {name}",
+    "title_location": "Cựu sinh viên tại {name}",
+    "lead": "Tất cả thành viên liên quan đến “{name}”.",
+    "description": "{count} cựu sinh viên liên quan đến {name} ({kind}) trên Alumni Connect.",
+    "refine": "Kết hợp với bộ lọc khác"
+  },
+  "login": {
+    "title": "Đăng nhập hoặc đăng ký", "lead": "Nhập email, chúng tôi sẽ gửi liên kết đăng nhập dùng một lần. Không cần mật khẩu.",
+    "email": "Email", "submit": "Gửi liên kết đăng nhập",
+    "sent": "Hãy kiểm tra hộp thư. Chúng tôi đã gửi liên kết đăng nhập. Mở liên kết trên thiết bị này.",
+    "error_email": "Vui lòng nhập email hợp lệ.", "error_send": "Không gửi được email. Vui lòng thử lại.",
+    "error_link": "Liên kết không hợp lệ hoặc đã hết hạn. Hãy yêu cầu liên kết mới.",
+    "note": "Sau khi đăng nhập, bạn có thể xác minh để xem thông tin liên hệ và gửi yêu cầu kết nối."
+  },
+  "verify": {
+    "title": "Xác minh thành viên",
+    "lead": "Cho chúng tôi biết bạn từng học trường nào. Quản trị viên sẽ xem xét. Thành viên đã xác minh có thể xem liên hệ và gửi yêu cầu kết nối.",
+    "school": "Trường", "schoolHint": "ví dụ: Đại học Bách khoa Hà Nội", "gradYear": "Năm tốt nghiệp",
+    "evidence": "Minh chứng (không bắt buộc)", "evidenceHint": "Liên kết LinkedIn, ảnh thẻ sinh viên hoặc trang nào cho thấy bạn từng học ở trường.",
+    "note": "Ghi chú cho người duyệt (không bắt buộc)", "noteHint": "Bất cứ điều gì giúp chúng tôi xác minh: lớp, thầy cô, bạn cùng lớp…",
+    "submit": "Gửi để duyệt", "error": "Vui lòng nhập trường và thử lại.",
+    "submitted": "Cảm ơn bạn! Yêu cầu đã được gửi và đang chờ duyệt.",
+    "pending": "Yêu cầu xác minh của bạn đang chờ duyệt.", "rejected": "Chúng tôi chưa thể xác minh yêu cầu gần nhất. Bạn có thể gửi lại với nhiều thông tin hơn.",
+    "verifiedText": "Bạn đã được xác minh.", "goDirectory": "Mở danh bạ",
+    "invitePrompt": "Có liên kết mời từ một cựu sinh viên khác? Mở liên kết đó để được xác minh ngay."
+  },
+  "profile": {
+    "verified": "Đã xác minh", "verifiedHint": "Tư cách thành viên đã được quản trị viên kiểm tra hoặc được thành viên đã xác minh mời",
+    "about": "Giới thiệu", "career": "Sự nghiệp", "education": "Học vấn", "expertise": "Chuyên môn", "canHelp": "Tôi có thể giúp",
+    "at": "tại", "current": "Hiện tại", "edit": "Sửa hồ sơ",
+    "selfPending": "Hồ sơ của bạn đang chờ xác minh. Hồ sơ sẽ công khai sau khi được duyệt.",
+    "selfUnverified": "Hồ sơ của bạn chưa công khai. Hãy xác minh để xuất hiện trong danh bạ.",
+    "verifyNow": "Xác minh ngay", "selfPrivate": "Hồ sơ của bạn đang được ẩn khỏi công cụ tìm kiếm và danh bạ.",
+    "connectTitle": "Liên hệ và kết nối", "loginToUnlock": "Đăng nhập với tư cách cựu sinh viên đã xác minh để xem thông tin liên hệ và gửi yêu cầu kết nối.",
+    "loginCta": "Đăng nhập", "verifyToUnlock": "Hãy xác minh tư cách cựu sinh viên để xem liên hệ và gửi yêu cầu kết nối.",
+    "verifyPendingText": "Yêu cầu xác minh đang chờ duyệt. Thông tin liên hệ sẽ mở sau khi được duyệt.",
+    "c_email": "Email", "c_phone": "Điện thoại",
+    "introMessage": "Giới thiệu bản thân", "introHint": "Vì sao bạn muốn kết nối?", "sendRequest": "Gửi yêu cầu kết nối",
+    "requestSent": "Đã gửi yêu cầu kết nối. Hai bên có thể nhắn tin sau khi được chấp nhận.",
+    "accept": "Chấp nhận", "decline": "Từ chối", "openChat": "Mở tin nhắn", "declined": "Yêu cầu này đã bị từ chối.",
+    "flashSent": "Đã gửi yêu cầu kết nối.", "flashLimit": "Bạn đã đạt giới hạn số yêu cầu kết nối hôm nay.",
+    "flashExists": "Bạn đã có kết nối hoặc yêu cầu đang chờ với người này.", "flashError": "Đã có lỗi. Vui lòng thử lại.",
+    "flashReported": "Cảm ơn bạn. Quản trị viên sẽ xem xét báo cáo.",
+    "report": "Báo cáo hồ sơ này", "reportHint": "Hồ sơ này có vấn đề gì?", "reportSend": "Gửi báo cáo"
+  },
+  "profileForm": {
+    "title": "Hồ sơ của tôi", "saved": "Đã lưu hồ sơ.", "viewProfile": "Xem hồ sơ", "saving": "Đang lưu…", "save": "Lưu hồ sơ",
+    "err_unauth": "Vui lòng đăng nhập lại.", "err_nameRequired": "Cần nhập họ tên.", "err_tooLong": "Có nội dung quá dài.", "err_generic": "Không lưu được. Vui lòng thử lại.",
+    "basics": "Thông tin cơ bản", "fullName": "Họ và tên", "headline": "Giới thiệu ngắn", "headlineHint": "ví dụ: Data scientist tại Grab · cố vấn cho du học sinh",
+    "location": "Thành phố", "locationHint": "ví dụ: Ho Chi Minh City", "country": "Quốc gia đang sống", "studyStatus": "Tình trạng học tập / làm việc",
+    "about": "Về bạn", "bioVi": "Tiểu sử (Tiếng Việt)", "bioEn": "Tiểu sử (English)",
+    "bioHint": "Viết một hoặc cả hai. Người xem sẽ thấy tiểu sử theo ngôn ngữ của họ nếu có.",
+    "education": "Học vấn", "school": "Trường / đại học", "schoolHint": "Gõ để tìm hoặc thêm mới", "faculty": "Khoa / ngành",
+    "facultyHint": "ví dụ: Computer Science", "degree": "Bằng cấp", "gradYear": "Năm tốt nghiệp", "remove": "Xóa", "addEducation": "Thêm học vấn",
+    "career": "Sự nghiệp", "jobTitle": "Chức danh", "jobHint": "ví dụ: Product Manager", "company": "Công ty", "companyHint": "ví dụ: Google",
+    "currentRole": "Tôi đang làm ở đây", "addPosition": "Thêm vị trí",
+    "expertiseAndHelp": "Chuyên môn và cách bạn có thể giúp", "expertise": "Chuyên môn", "expertiseHint": "Gõ một kỹ năng rồi nhấn Enter",
+    "help": "Tôi có thể giúp", "helpHint": "ví dụ: Mentoring, Scholarships",
+    "contact": "Thông tin liên hệ", "contactHint": "Chỉ cựu sinh viên đã xác minh mới thấy. Để trống những gì bạn không muốn chia sẻ.",
+    "c_email": "Email", "c_phone": "Điện thoại", "c_linkedin": "Liên kết LinkedIn", "c_facebook": "Liên kết Facebook", "c_zalo": "Zalo",
+    "publicProfile": "Hiển thị hồ sơ công khai", "publicProfileHint": "Hồ sơ công khai có thể được tìm thấy trên công cụ tìm kiếm. Thông tin liên hệ không bao giờ công khai.",
+    "avatar": "Ảnh đại diện", "upload": "Tải lên", "avatarOk": "Đã cập nhật ảnh.", "avatarError": "Dùng ảnh JPG, PNG hoặc WebP tối đa 2 MB."
+  },
+  "connections": {
+    "title": "Kết nối", "incoming": "Yêu cầu gửi đến bạn", "noneIncoming": "Không có yêu cầu nào đang chờ.", "accept": "Chấp nhận", "decline": "Từ chối",
+    "chats": "Kết nối của bạn", "noneChats": "Chưa có kết nối. Hãy vào một hồ sơ và gửi yêu cầu.", "open": "Mở tin nhắn",
+    "outgoing": "Yêu cầu đã gửi", "waiting": "Đang chờ phản hồi", "sayHi": "Hãy chào nhau 👋", "messageHint": "Viết tin nhắn", "send": "Gửi"
+  },
+  "invite": {
+    "title": "Mời cựu sinh viên", "lead": "Chia sẻ liên kết mời. Người tham gia qua liên kết sẽ được xác minh tự động.",
+    "needVerified": "Chỉ thành viên đã xác minh mới tạo được liên kết mời.", "create": "Tạo liên kết mời", "error": "Không tạo được liên kết. Có thể bạn đang có quá nhiều lời mời còn hiệu lực.",
+    "link": "Liên kết mời", "uses": "Đã dùng {uses}/{max}", "expires": "hết hạn {date}"
+  },
+  "join": {
+    "title": "Bạn được mời", "lead": "Một cựu sinh viên đã xác minh mời bạn tham gia Alumni Connect. Đăng nhập để được xác minh tự động.",
+    "email": "Email", "submit": "Gửi liên kết đăng nhập", "accept": "Chấp nhận lời mời", "invalid": "Lời mời không hợp lệ, đã hết hạn hoặc đã dùng hết lượt."
+  },
+  "admin": {
+    "title": "Quản trị", "pending": "Yêu cầu xác minh đang chờ", "nonePending": "Không có gì cần duyệt.", "school": "Trường",
+    "evidence": "Minh chứng", "approve": "Duyệt", "reject": "Từ chối", "reports": "Báo cáo", "noReports": "Không có báo cáo nào.", "resolve": "Đánh dấu đã xử lý",
+    "tags": "Thẻ", "tagSearch": "Tìm thẻ", "search": "Tìm", "rename": "Đổi tên", "delete": "Xóa",
+    "tagInUse": "Thẻ này vẫn đang được dùng trong hồ sơ nên không thể xóa."
+  }
+}
